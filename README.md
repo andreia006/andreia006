@@ -1,6 +1,6 @@
 <hr>
 <h3 align="left">🤍Hello, and Welcome!</h3>
-☕I'm currently a computer programming student. Recently venturing into many faucets of cybersecurity as a beginner.
+☕I'm currently a computer programming student at Seneca Polytechnic. Recently venturing into many faucets of cybersecurity as a beginner.
 <br>
 <hr>
 <h3 align="left">🤍What I'm Up To</h3>
