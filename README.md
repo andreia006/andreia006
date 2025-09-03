@@ -1,9 +1,8 @@
-<h3 align="center">Hello, and welcome!</h3>
-<h3 align="center">I'm currently a computer programming student. Recently venturing into many faucets of cybersecurity as a beginner.</h3>
+<h3 align="left">Hello, and welcome!</h3>
+<h3 align="left">I'm currently a computer programming student. Recently venturing into many faucets of cybersecurity as a beginner.</h3>
 
 - 🔭 I’m currently working on a helpful network script that allows for an easy toggle between different wifi frequency bands!
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
