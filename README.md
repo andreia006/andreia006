@@ -4,6 +4,7 @@
 <br>
 <h3 align="left">🤍What I'm Up To</h3>
 - ☁️ I’m currently working on a helpful network script that allows for an easy toggle between different wifi frequency bands!
+<p></p>
 - 🌱 I’m currently learning networking as a fundamental base.
 <br>
 <h3 align="left">🤍Languages and Tools</h3>
