@@ -1,15 +1,30 @@
 <hr>
-<h3 align="left">🤍Hello, and Welcome!</h3>
-☕I'm currently a computer programming student at Seneca Polytechnic. Recently venturing into many faucets of cybersecurity as a beginner.
+<h3 align="left">🤍 Hi, I'm Andreia!</h3>
+
 <br>
-<hr>
-<h3 align="left">🤍What I'm Up To</h3>
-- ☁️ I’m working on a helpful network script that allows for an easy toggle between different wifi frequency bands!
-<p></p>
-- ☁️ I’m also creating a gaming macro app (auto clicker and auto key) as one of my beginner python projects.
-<p></p>
-- 🌱 I’m learning networking as a fundamental base.
+
+<p>
+I'm a Computer Programming graduate with a growing passion for IT and cybersecurity.
+I'm currently expanding my knowledge through hands-on projects while studying for the CompTIA Network+ certification.
+My goal is to build a strong foundation in networking, system administartion, and security.
+</p>
+
 <br>
-<hr>
-<h3 align="left">🤍Languages and Tools</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
+
+<h3 align="left">🌱 Currently Learning </h3>
+<br>
+• Linux Administration
+• Windows Administration
+• Networking Fundamentals
+• Wireshark
+
+<br>
+<br>
+
+<h3 align="left">📁 Projects </h3>
+<br>
+• Network Traffic Analysis
+• Linux Admin Lab
+• Windows Admin Lab
+• Desktop Automation Tool (Auto-Clicker)
