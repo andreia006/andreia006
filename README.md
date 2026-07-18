@@ -6,6 +6,7 @@ I'm currently expanding my knowledge through hands-on projects while studying fo
 My goal is to build a strong foundation in networking, system administartion, and security.<br>
 </p>
 <br>
+<hr>
 <h3 align="left">🌱 Currently Learning </h3>
 <p>
 • Linux Administration<br>
