@@ -4,11 +4,7 @@
 <p>I'm currently expanding my knowledge through hands-on projects while studying for the CompTIA Network+ certification.</p>
 <p>I'm currently expanding my knowledge through hands-on projects while studying for the CompTIA Network+ certification.</p>
 <p>My goal is to build a strong foundation in networking, system administartion, and security.</p>
-
-<br>
 <hr>
-<br>
-
 <h3 align="left">🌱 Currently Learning </h3>
 <p>
 • Linux Administration<br>
@@ -16,7 +12,6 @@
 • Networking Fundamentals<br>
 • Wireshark<br>
 </p>
-<br>
 <h3 align="left">📁 Projects </h3>
 <p>
 • Network Traffic Analysis<br>
